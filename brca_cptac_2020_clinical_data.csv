@@ -1,0 +1,123 @@
+Patient ID,Sample ID,Mutation Count,Age,Sex,Chromosome INstability index CIN ,Ethnicity,PAM50,Tumor Stage,APOBEC Signature,CD3 TILS Counts,CD3 TILS Status,CIBERSORT Absolute Score,ER Updated Clinical Status,ERBB2 Gene Amplified,ERBB2 Proteogenomic Status,ERBB2 Updated Clinical Status,ESTIMATE Immune Score,ESTIMATE Stromal Score
+CPT000814,CPT000814,82,,,2.2719461,Black or African American,Basal,Stage IIA,N,not performed,not performed,0.565019,Negative,0,Negative,,846.350897,-812.409581
+CPT001846,CPT001846,72,,,0.826617402,White,Basal,Stage III,N,not performed,not performed,0.785537,Negative,0,Negative,,1425.391899,495.60375
+X01BR001,X01BR001,71,55,Female,1.137608521,Black or African American,Basal,Stage IIB,N,not performed,not performed,0.45449,Negative,0,Negative,Negative,475.804314,-476.863678
+X01BR008,X01BR008,122,,,0.466991648,,Basal,,N,not performed,not performed,2.064309,,0,Negative,,2809.59164,-77.281727
+X01BR009,X01BR009,112,,,4.30213853,,Basal,,N,not performed,not performed,1.191462,Negative,0,Negative,,1664.85538,725.73435
+X01BR010,X01BR010,78,,,0.456320974,,Her2,,N,60,T,0.498983,Negative,0,Negative,,375.355547,374.25274
+X01BR015,X01BR015,50,35,Female,1.379587319,White,LumA,Stage IIB,N,not performed,not performed,0.720781,Positive,0,Negative,Negative,1119.306238,468.365511
+X01BR017,X01BR017,128,45,Female,1.060969462,White,Her2,Stage III,N,not performed,not performed,1.272618,Negative,1,Positive,Positive,1883.327193,608.997993
+X01BR018,X01BR018,309,66,Female,6.068239982,White,Basal,Stage IIIA,N,not performed,not performed,1.66713,Positive,0,negative,negative,2247.377844,590.562586
+X01BR020,X01BR020,86,,,4.220512167,,Basal,,N,not performed,not performed,1.290331,Negative,0,Negative,,1685.766454,45.776067
+X01BR023,X01BR023,33,,,3.897837169,,LumA,,N,5,T,0.152146,Positive,0,negative,equivocal,-676.347021,-1440.910847
+X01BR025,X01BR025,11,62,Female,0.477414509,Black or African American,LumA,Stage IIIA,,45,T,0.316919,Positive,0,negative,equivocal,644.717853,-378.799768
+X01BR026,X01BR026,77,,,1.758586002,White,Basal,,N,not performed,not performed,1.574962,Negative,0,Negative,,2231.321092,1579.015155
+X01BR027,X01BR027,176,80,Female,1.842240206,Black or African American,Basal,Stage IIA,N,55,T,0.534953,Negative,0,Negative,Negative,616.765017,-405.13497
+X01BR030,X01BR030,64,84.16666667,Female,0.650297221,Black or African American,LumA,Stage IIIA,N,50,T,1.607262,Positive,0,Negative,Negative,2544.70288,354.735906
+X01BR031,X01BR031,50,61.66666667,Female,2.547830638,Black or African American,Basal,Stage III,N,not performed,not performed,0.88796,Negative,0,Negative,,1061.244615,363.401402
+X01BR032,X01BR032,27,46.41666667,Female,1.113350459,White,LumB,Stage IIIB,N,not performed,not performed,0.210575,Positive,0,Negative,Negative,-215.651386,-848.767325
+X01BR033,X01BR033,90,40.41666667,Female,3.055750677,Black or African American,LumA,Stage III,N,not performed,not performed,0.991935,Positive,0,Negative,Negative,1559.912463,945.572025
+X01BR040,X01BR040,42,,,1.571783285,Black or African American,Basal,Stage IIB,N,not performed,not performed,1.465522,Negative,0,Negative,,2369.41481,210.526322
+X01BR042,X01BR042,91,,,4.495325229,Black or African American,Basal,,N,not performed,not performed,0.992146,Negative,0,Negative,,1712.974756,-698.551999
+X01BR043,X01BR043,7909,,,2.925318968,White,Basal,,N,not performed,not performed,1.698384,Negative,0,Negative,,2200.849893,-462.212213
+X03BR002,X03BR002,28,60.58333333,Female,0.263150091,White,LumA,Stage IIIA,N,not performed,not performed,0.499958,Positive,0,Negative,Negative,500.233532,366.762223
+X03BR004,X03BR004,51,88.66666667,Female,0.448071755,White,LumA,Stage IIB,N,not performed,not performed,0.492183,Positive,0,Negative,Negative,374.456365,628.472482
+X03BR005,X03BR005,12,61.5,Female,0.053447784,White,LumA,Stage IIA,,not performed,not performed,0.809317,Positive,0,Negative,Negative,1023.633109,1185.566943
+X03BR006,X03BR006,95,,,5.661405304,White,Basal,,N,not performed,not performed,0.746765,Negative,0,Negative,,917.34243,-330.308601
+X03BR010,X03BR010,58,78.58333333,Female,1.257480784,White,LumA,Stage IIA,N,not performed,not performed,0.292846,Positive,0,Negative,Negative,289.720214,-383.884193
+X03BR011,X03BR011,48,,,0.390927321,White,LumA,,N,not performed,not performed,0.451309,Positive,0,negative,,473.421364,72.337367
+X03BR013,X03BR013,37,52.16666667,Female,1.43545494,,LumA,Stage IIA,N,not performed,not performed,1.116004,Positive,0,Negative,Negative,1339.959919,721.056076
+X05BR001,X05BR001,29,70,Female,0.119783512,White,Basal,Stage IIB,N,70,T,1.690603,Negative,0,Negative,Negative,2756.194524,1250.704619
+X05BR003,X05BR003,69,37.58333333,Female,1.822497393,White,LumA,Stage IIB,N,45,T,0.97308,Positive,0,Negative,Negative,1118.583239,1008.147388
+X05BR004,X05BR004,52,,,0.942026652,White,LumA,,N,not performed,not performed,0.677208,Positive,0,negative,,656.337828,381.338096
+X05BR005,X05BR005,67,50,Female,1.48710105,White,LumA,Stage IA,N,20,PT,0.40252,Positive,0,Negative,Negative,508.65917,863.091214
+X05BR009,X05BR009,97,64.33333333,Female,0.255161644,White,LumA,Stage IIIC,N,not performed,not performed,1.080917,Positive,0,Negative,Negative,1300.544501,1590.568417
+X05BR016,X05BR016,73,78.16666667,Female,0.171408231,White,LumA,Stage IIB,N,25,PT,0.319954,Positive,0,Negative,Negative,244.42179,-81.547065
+X05BR026,X05BR026,35,71.5,Female,1.224621802,White,LumA,Stage IIA,N,40,T,1.243373,Positive,1,Positive,Positive,2072.995491,1557.223982
+X05BR029,X05BR029,348,61.91666667,Female,4.036541722,White,Basal,Stage IIA,N,80,T,0.770379,Negative,0,Negative,Negative,1276.678004,-1020.703611
+X05BR038,X05BR038,383,52.25,Female,0.765850842,White,LumA,Stage IA,Y,45,PT,0.824787,Positive,0,Negative,Negative,771.383893,623.762794
+X05BR042,X05BR042,125,40,Female,2.467613128,White,Basal,Stage IIB,N,70,PT,1.060131,Negative,0,Negative,Negative,1586.64542,-187.183541
+X05BR043,X05BR043,146,50,Female,3.979357879,White,Basal,Stage IIB,N,60,T,1.241093,Negative,0,Negative,Negative,1641.832908,246.970721
+X05BR044,X05BR044,52,62.75,Female,0.738050003,White,Her2,Stage IIB,N,10,PT,0.688107,Positive,0,negative,negative,958.975,-51.971406
+X05BR045,X05BR045,65,60,Female,3.525720695,White,Basal,Stage IIA,N,30,T,0.816303,Negative,0,Negative,equivocal,996.747694,-459.868422
+X06BR003,X06BR003,113,75,Female,1.130305284,Hispanic or Latino,Her2,Stage IIA,N,not performed,not performed,0.987732,Positive,1,negative,equivocal,1397.369991,511.668718
+X06BR005,X06BR005,57,58,Female,0.655766629,Hispanic or Latino,LumA,Stage IIA,N,not performed,not performed,0.861046,Positive,0,negative,equivocal,1216.147841,227.860575
+X06BR006,X06BR006,105,51,Female,0.158407665,Hispanic or Latino,Normal-like,,,not performed,not performed,0.882338,Negative,1,Positive,equivocal,1442.230636,1521.072943
+X06BR014,X06BR014,26,51,Female,1.117140342,Hispanic or Latino,LumA,Stage IIB,N,not performed,not performed,0.463028,Positive,0,Negative,Negative,166.427034,-92.580645
+X09BR001,X09BR001,49,,,1.506875662,,LumA,,N,not performed,not performed,0.299912,Positive,0,negative,,678.901475,-301.366779
+X09BR004,X09BR004,59,75.33333333,Female,2.4659498,White,Normal-like,Stage IIA,,not performed,not performed,0.286701,Positive,1,Positive,Positive,-668.551236,-1022.189811
+X09BR005,X09BR005,74,38.25,Female,1.980462775,White,Her2,Stage IIB,N,not performed,not performed,0.27765,Positive,1,Positive,Positive,149.666807,292.376028
+X09BR007,X09BR007,51,77.5,Female,0.954156191,White,LumA,Stage IIIA,N,not performed,not performed,0.890766,Positive,0,negative,Positive,1379.805113,381.84552
+X11BR003,X11BR003,800,53.58333333,Female,0.501259382,Asian,Basal,Stage IIA,N,not performed,not performed,1.820174,Negative,0,Negative,Negative,2713.222395,121.34361
+X11BR004,X11BR004,39,54.5,Female,0.789010588,Asian,Her2,Stage IIA,N,75,T,2.018323,Positive,1,Positive,Positive,2426.051879,495.473287
+X11BR006,X11BR006,77,54.5,Female,1.602702501,Asian,LumA,Stage IIA,N,0,NT,0.950416,Positive,0,Negative,Negative,1324.834522,418.982014
+X11BR009,X11BR009,131,44.16666667,Female,4.273306928,Asian,LumB,Stage IIIC,N,50,T,0.863016,Positive,0,Negative,Negative,1029.908175,-566.90084
+X11BR010,X11BR010,45,35.58333333,Female,1.415629832,Asian,LumA,Stage IIB,N,50,T,0.955077,Positive,1,Positive,Positive,1353.971531,820.015466
+X11BR011,X11BR011,44,71.5,Female,1.061994048,Asian,LumB,Stage IIIA,N,60,T,1.408118,Positive,1,Positive,equivocal,2187.725322,633.504183
+X11BR012,X11BR012,97,77,Female,2.63410438,White,LumA,Stage IIA,N,5,PT,0.554932,Positive,0,negative,negative,838.54153,-75.321046
+X11BR013,X11BR013,63,70,Female,0.942759279,White,LumB,Stage IIA,N,15,T,0.505907,Positive,0,negative,negative,492.568589,-255.099747
+X11BR014,X11BR014,74,39.66666667,Female,0.072014552,White,LumA,Stage IIIA,N,10,T,1.000703,Positive,0,Negative,Negative,1458.02589,1507.273907
+X11BR015,X11BR015,28,60,Female,1.373961288,White,LumB,Stage IIIA,N,10,PT,0.338225,Positive,0,negative,negative,-22.733317,-674.887898
+X11BR016,X11BR016,78,30.91666667,Female,1.96930412,White,Basal,Stage IIA,N,70,T,1.369973,Negative,0,Negative,Negative,1486.399787,-457.511032
+X11BR017,X11BR017,50,74.75,Female,1.084218653,White,Her2,Stage IIIA,N,60,T,1.090942,Negative,0,Negative,Negative,1639.612214,102.893143
+X11BR018,X11BR018,67,54.41666667,Female,0.167410177,White,LumA,Stage IIIA,N,45,T,1.547491,Positive,0,Negative,Negative,2091.740653,1287.446874
+X11BR019,X11BR019,87,61.25,Female,1.485021635,White,LumB,Stage IIA,N,70,T,1.04273,Positive,1,Negative,Negative,1719.617176,-348.606579
+X11BR020,X11BR020,121,37.5,Female,1.349644706,White,LumA,Stage IIA,N,40,T,1.319588,Positive,0,Negative,Negative,1725.041825,476.866338
+X11BR022,X11BR022,48,48.66666667,Female,0.041769587,White,LumA,Stage IIA,N,25,T,0.796172,Positive,0,Negative,Negative,893.021712,385.068534
+X11BR023,X11BR023,106,58.5,Female,1.015638905,White,Basal,Stage IIA,N,30,T,1.416804,Negative,0,Negative,Negative,2056.103037,264.384302
+X11BR024,X11BR024,79,80.75,Female,1.371127518,White,Basal,Stage IIA,N,65,T,1.488928,Negative,0,Negative,Negative,2238.743018,-224.520717
+X11BR025,X11BR025,45,77.41666667,Female,0.099965473,White,LumA,Stage IIA,N,5,PT,0.233066,Positive,0,Negative,Negative,-289.516909,-710.395533
+X11BR027,X11BR027,114,76.16666667,Female,0.882946157,White,LumA,Stage IIA,N,25,PT,0.822915,Positive,0,Negative,Negative,1279.40903,-113.677851
+X11BR028,X11BR028,92,55.33333333,Female,3.160146832,White,Her2,Stage IIA,N,40,T,0.463925,Negative,1,Positive,Positive,791.509885,157.302638
+X11BR030,X11BR030,88,50.75,Female,0.394085544,Asian,Her2,Stage IIA,Y,15,PT,1.617953,Negative,1,Positive,Positive,2765.526834,468.139173
+X11BR031,X11BR031,348,50,Female,1.76392698,Asian,LumA,Stage IIA,Y,35,T,1.008895,Positive,0,Negative,Negative,1519.115732,824.303566
+X11BR032,X11BR032,18,49.75,Female,0.307859209,Asian,LumA,Stage IIA,N,5,T,1.079728,Positive,0,Negative,Negative,1337.777641,1146.538057
+X11BR036,X11BR036,62,51.58333333,Female,2.126255904,Asian,Basal,Stage IIA,N,5,PT,0.234612,Negative,0,Negative,Negative,-73.398721,-942.899492
+X11BR038,X11BR038,42,47.41666667,Female,0.606024653,Asian,Her2,Stage IIA,N,30,PT,2.000247,Negative,1,Positive,Positive,2208.369097,475.316791
+X11BR040,X11BR040,30,67.83333333,Female,0.265259668,Asian,LumA,Stage IIIA,N,20,T,0.67328,Positive,0,Negative,Negative,716.550157,165.941259
+X11BR042,X11BR042,27,71.41666667,Female,0.73203768,White,Her2,Stage IIA,N,30,T,0.702472,Negative,0,Negative,Negative,934.889391,349.034868
+X11BR043,X11BR043,80,36.66666667,Female,2.715802638,White,LumB,Stage IIB,N,70,T,1.434464,Positive,0,Negative,Negative,2288.081121,454.178235
+X11BR044,X11BR044,48,48,Female,1.91595668,White,LumB,Stage IIIA,N,60,T,1.058189,Positive,0,Negative,Negative,1127.109032,61.254668
+X11BR047,X11BR047,25,59.16666667,Female,0.630788376,Asian,LumA,Stage IIA,N,50,T,0.636493,Positive,0,Negative,Negative,635.421797,477.871345
+X11BR049,X11BR049,72,45.83333333,Female,1.388772689,Asian,LumB,Stage IIIA,N,65,T,1.139219,Positive,0,Negative,Negative,1242.772843,293.173402
+X11BR050,X11BR050,27,54,Female,0.121141789,Asian,LumA,Stage IIA,N,10,PT,1.18295,Positive,0,Negative,Negative,1590.251314,1477.145666
+X11BR051,X11BR051,37,65.41666667,Female,1.361058459,White,LumA,Stage IIIA,N,15,T,0.815085,Positive,0,Negative,Negative,1211.405372,525.588902
+X11BR053,X11BR053,75,61.91666667,Female,3.656801476,White,LumB,Stage IIA,N,10,PT,0.40404,Positive,0,Negative,Negative,201.171392,-282.591904
+X11BR054,X11BR054,22,84.41666667,Female,0.026149142,White,LumA,Stage IIA,N,35,T,0.329558,Positive,0,Negative,Negative,101.496162,-704.19923
+X11BR055,X11BR055,76,56.25,Female,1.555005308,White,LumA,Stage IIA,N,5,T,0.818386,Positive,0,Negative,Negative,1107.703403,1093.033872
+X11BR056,X11BR056,37,52.83333333,Female,1.800882719,Asian,LumA,Stage IIB,N,70,T,1.21051,Positive,0,negative,negative,1629.27314,920.369961
+X11BR058,X11BR058,58,65.58333333,Female,1.010827695,Asian,Normal-like,Stage IIA,,10,T,0.873502,Negative,0,Negative,Negative,1372.43086,1204.728316
+X11BR059,X11BR059,67,45.91666667,Female,0.812461627,Asian,Normal-like,Stage IIA,,60,T,1.001855,Positive,0,Negative,Negative,1052.949848,133.006864
+X11BR060,X11BR060,110,52.83333333,Female,4.033835805,Asian,Her2,Stage IIB,N,55,T,0.903779,Negative,1,Positive,Positive,1265.591305,964.948681
+X11BR072,X11BR072,41,70.66666667,Female,0.133328699,White,LumA,Stage IIIC,N,50,T,0.79744,Positive,0,Negative,Negative,1076.824162,605.341579
+X11BR073,X11BR073,77,64.58333333,Female,1.468737918,White,LumB,Stage IIIA,N,75,T,1.568457,Positive,0,Negative,Negative,2565.542979,237.171381
+X11BR074,X11BR074,19,66.16666667,Female,0.310636112,White,LumA,Stage IIIA,N,10,T,0.860188,Positive,0,Negative,Negative,991.831168,1075.616092
+X11BR075,X11BR075,155,79.41666667,Female,3.39840801,White,LumB,Stage IIIA,N,30,T,0.770334,Positive,0,Negative,Negative,954.540245,463.164821
+X11BR080,X11BR080,67,68.33333333,Female,1.451119883,White,Basal,Stage IIB,N,55,T,1.593937,Positive,0,Negative,Negative,2255.776041,333.844739
+X13BR009,X13BR009,59,75,Female,2.826122978,White,LumB,Stage IIIB,N,not performed,not performed,0.49338,Positive,0,Negative,Negative,503.860612,-242.807701
+X14BR005,X14BR005,31,78.33333333,Female,1.677906218,White,LumA,Stage IIA,N,not performed,not performed,0.535901,Positive,0,negative,,634.281663,-397.879373
+X14BR008,X14BR008,23,66.33333333,Female,0.29960095,White,LumA,Stage IIIA,N,not performed,not performed,0.984642,Positive,0,Negative,Negative,1243.442351,1189.459127
+X14BR014,X14BR014,20,59.16666667,Female,0.202887753,White,LumA,Stage IIA,N,not performed,not performed,0.87434,Positive,0,Negative,Negative,700.860825,522.965467
+X15BR003,X15BR003,656,74.58333333,Female,0.139798332,White,LumA,Stage IIA,Y,not performed,not performed,1.238836,Positive,0,negative,negative,1556.414992,778.866509
+X16BR012,X16BR012,164,47.5,Female,0.793115717,White,LumB,Stage IIIC,Y,not performed,not performed,0.578108,,0,Negative,,590.628133,436.886485
+X18BR002,X18BR002,148,64.08333333,Female,1.164432244,White,Her2,Stage IIIA,N,5,T,1.383812,Negative,0,Negative,Negative,2206.669318,1441.074516
+X18BR003,X18BR003,1001,65.83333333,Female,0.572258451,White,LumB,Stage IIA,Y,60,T,1.35861,Positive,0,negative,negative,1853.547775,-72.486852
+X18BR004,X18BR004,28,76.75,Female,0.374702641,White,LumA,Stage IIA,N,1,NT,0.404123,Positive,0,Negative,Negative,57.675786,-446.188976
+X18BR006,X18BR006,126,62.33333333,Female,3.248566526,White,LumB,Stage IIA,N,5,PT,0.919271,Positive,0,Negative,Negative,1428.845476,982.740632
+X18BR007,X18BR007,96,64,Female,1.238151274,White,LumA,Stage IIA,N,not performed,not performed,0.95944,Positive,0,negative,equivocal,1445.219269,604.632201
+X18BR009,X18BR009,61,63.5,Female,0.459675173,White,Normal-like,Stage IIA,,70,PT,1.918183,Negative,1,Positive,Positive,2385.70268,837.874347
+X18BR010,X18BR010,24,41,Female,0.519579637,White,LumA,Stage IIIA,N,10,PT,0.784446,Positive,0,Negative,Negative,966.576375,931.613195
+X18BR016,X18BR016,35,73.75,Female,0.739682923,White,LumA,Stage IA,N,1,PT,0.510331,Positive,0,Negative,Negative,537.772533,771.005706
+X18BR017,X18BR017,77,72.66666667,Female,1.802915153,White,LumA,Stage IA,N,not performed,not performed,1.082374,Positive,0,negative,negative,1304.195032,872.169912
+X18BR019,X18BR019,29,68.08333333,Female,0.323082858,White,LumA,Stage IIIA,N,not performed,not performed,0.683072,Positive,0,Negative,Negative,838.600703,191.107936
+X20BR001,X20BR001,33,82.16666667,Female,0.758862705,Black or African American,LumA,Stage IIA,N,not performed,not performed,0.63872,Positive,0,Negative,Negative,1240.694726,62.931282
+X20BR002,X20BR002,103,95.33333333,Female,2.420805736,White,Basal,Stage IIA,N,not performed,not performed,0.643153,Negative,0,Negative,Negative,680.311661,548.100456
+X20BR005,X20BR005,123,47.33333333,Female,3.97560851,Black or African American,Basal,Stage IIB,N,not performed,not performed,0.526494,Negative,0,Negative,Negative,932.987215,784.333896
+X20BR006,X20BR006,87,65.5,Female,2.879015576,White,Basal,Stage IIB,N,not performed,not performed,0.339632,Positive,0,negative,negative,535.17001,-2.021472
+X20BR007,X20BR007,121,55,Female,2.437907928,Black or African American,Basal,Stage IIA,N,not performed,not performed,0.731444,Negative,0,Negative,Negative,1507.621871,784.728836
+X20BR008,X20BR008,85,71.91666667,Female,0.26096968,Black or African American,Her2,Stage IIIB,N,not performed,not performed,0.385938,Negative,0,Negative,Negative,954.860667,1153.385721
+X21BR001,X21BR001,262,,,1.925994132,White,LumB,,N,not performed,not performed,1.085131,Negative,1,Positive,,2014.358538,-35.342048
+X21BR002,X21BR002,48,,,0.751422632,White,LumA,,N,not performed,not performed,0.959089,Positive,0,negative,,1956.58573,711.234125
+X21BR010,X21BR010,24,71,Female,0.345134879,White,LumA,Stage IIA,N,not performed,not performed,0.267234,Positive,0,Negative,Negative,628.877273,830.372368
+X22BR005,X22BR005,89,46,Female,1.722306367,White,LumA,Stage IIB,N,not performed,not performed,1.010303,Positive,1,Positive,Positive,1346.716615,188.859577
+X22BR006,X22BR006,20,55,Female,0.381897508,Black or African American,LumA,Stage IIIA,N,not performed,not performed,0.890611,Positive,0,Negative,Negative,1012.34597,518.765898
